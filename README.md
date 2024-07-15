@@ -90,7 +90,6 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 <br/>
 <br/>
-<br/>
 
 ## 📊 My Profile Statistics
 <p align="center">
