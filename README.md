@@ -88,12 +88,10 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 </p>
 
 <br/>
-
-<hr/>
-
+<br/>
 <br/>
 
-## 📊 GitHub Profile Statistics
+## 📊 My Profile Statistics
 <p align="center">
 <a href="https://github.com/iamubaidch"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamubaidch&langs_count=8&layout=compact&border_color=7F3FBF"/
 </a>
