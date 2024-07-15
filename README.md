@@ -1,4 +1,7 @@
-# Hi 👋, I'm Muhammad Ubaidullah
+<html>
+
+<body style="background-color:blue;"> 
+    # Hi 👋, I'm Muhammad Ubaidullah
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -22,76 +25,11 @@
 </div>
 
 ### About Me :
-I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Islamabad.
-- :telescope: I’m studying BS Computer Science and working as a remote Data Science intern.
+I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Islamabad.
+- :telescope: I'm recently graduated with a Bachelor's degree in Computer Science and currently working as a web developer.
 
-- :seedling: Exploring and working on various Data Science and Machine Learning projects and learning Artificial Intelligence and Data Science from [codanics](https://codanics.com/).
-
-
-
-- :zap: In my free time, I enjoy learning new data science techniques, working on personal projects, and reading tech articles.
-
-
-
-<html>
-
-<body style="background-color:blue;"> 
-    <h1>
-        CV:- 
-    </h1>
-      <br> <a href="https://lh3.googleusercontent.com/a/AAcHTte7-5auuB5-cBwwRleYGn4WATnZLKTEZ81UyaseFfaGD-0=s360-c-no"></a>
-    <p>
-    Hi there 👋     My Name : Zainab Nadeem Faza'a Al-Shubati
-    </p>
-    <p> I was a Programer </p>
-
-<br>
-<p><h1><b><i><em>Contact</em></i></b></h1> 
- <address> 45<sup>th</sup> street</address>
-
-
-</p>
-<p>
-    Facebook: <a href="https://www.facebook.com/profile.phpid=100004069264332">this is my facebook</a>
-</p>
-<p>
-    Linkedlin:      <a href="https://www.linkedin.com/in/zainab-nadeem-729038189">this is my Linkedln account</a>
-
-</p>
-
-<h1><em><i> About Me : </i></em></h1>
-<img align="right" alt="GIF" src="https://github.com/ZainabNadeem/html_learn/blob/main/gif3.gif" width="500"/>
-<pre style="color:red;">I am a programmer, ERP system implementer, and report builder
-Human resources from salaries, insurance differences, and service termination report, 
-as well as working on managing the customer service system from receiving the customer
-to the buying stage and then the selling stage.
-My experiences and skills will help me with developing, managing, and providing beneficial
-services by using the latest technologies and information systems.
-Also, I have extensive experience in website design, database management, builder Powe PI reports, 
-and email exchange.</pre>
-<h1><em><i>WORK EXPERIENCE:</i></em></h1><br>
-
-<h2>system developer</h2><br>
-
-<h3>YTECH Company (Al-Ruwaishan Group) | 2020 - for now</h3>
-<pre>
-- Preparing data and reports for the resource system, customer service, and vacations.
-- Analyze salary and wage reports and financial constraints and provide solutions.
-- Create a data flow for the flow of operations according to the customers' desire.
-- Connect the POP & SMTP protocol in the Mail Server and manage the emails of Outlook employees.
-- Work on ZK FingerTec fingerprint system.
-- Depreciation of assets, asset tracking and inventory
-</pre>
-
-<h1>SENIOR ENGINEER</h1><br>
-<h2>EXECUTOR OF PROJECTS BY YTECH (AL-RUWAISHAN GROUP) | 2019- 2020</h2>
-<pre>
-- Provided effective solutions in the human resources report for wages and salaries
-- Create a user directory (for system administrator - normal user).
-- Technical trade exchange training.
-- Customer service and beyond.
-</pre>
-
+- :zap: In my free time, I enjoy learning new web development techniques, working on personal projects, and reading tech articles.
+- 
 <br />
 
 <br>
