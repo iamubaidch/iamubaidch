@@ -78,7 +78,11 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 <hr>
 
-## Top Open Source
+<br />
+<br />
+
+
+## 📖 Top Open Source
 [![vehicle-price-prediction
 ](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=vehicle-price-prediction&border_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-prediction)
 [![Spam-Mail-Classification
@@ -89,9 +93,14 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 </p>
 
 <br/>
-<hr/>
 <br/>
 
+<hr/>
+
+<br/>
+<br/>
+
+## 📊 Profile Stats
 <p align="center">
 <a href="https://github.com/iamubaidch"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamubaidch&langs_count=8&layout=compact&border_color=7F3FBF"/
 </a>
