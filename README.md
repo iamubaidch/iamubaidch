@@ -96,15 +96,20 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <a href="https://github.com/iamubaidch"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamubaidch&langs_count=8&layout=compact&border_color=7F3FBF"/
 </a>
 </p>
+
+<p align="center">
+<a href="https://github.com/iamubaidch"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamubaidch&show_icons=true&count_private=true&border_color=7F3FBF"/>
+</a>
+</p>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/iamubaidch">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamubaidch&border=7F3FBF" alt="Ubaid's GitHub streak"/>
   </a>
 </p>
-<p align="center">
-<a href="https://github.com/iamubaidch"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamubaidch&show_icons=true&count_private=true&border_color=7F3FBF"/>
-</a>
-</p>
+
 
 <br/>
   
