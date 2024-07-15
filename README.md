@@ -80,8 +80,10 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <hr>
 
 ## Top Open Source -
-[![Vehiclle Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-prediction)
-[![Spam Mail Classification](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-Spam-Mail-Classification)
+[![vehicle-price-prediction
+](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-prediction)
+[![Spam-Mail-Classification
+](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/Spam-Mail-Classification)
 
 <p align="left">
   <a href="https://github.com/iamubaidch?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
