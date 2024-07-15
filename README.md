@@ -13,7 +13,7 @@
     <a href="https://www.instagram.com/iamubaidch/">
       <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://twitter.com/iamubaidch">
+    <a href="https://x.com/iamubaidch">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
