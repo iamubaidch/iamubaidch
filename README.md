@@ -25,7 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamubaidch&style=flat-square&color=blue" alt=""/>
 </div>
 
-### 🙋🏻‍♂ About Me
+## 🙋🏻‍♂ About Me
 I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Islamabad.
 - :telescope: I'm recently graduated with a Bachelor's degree in Computer Science and currently working as a web developer.
 
@@ -33,45 +33,33 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 
 
-### 🚀 Skills
+## 🚀 Skills
 
-#### Languages
-<img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/powered-by-cfml.svg">
+### Languages
+<img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
 
+<br />
 <br />
 
 #### Backend Frameworks
-<img align="left" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
 <img align="left" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
-<img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/built-with-coldbox.svg">
 
 <br />
-
-#### JS Frameworks
-<img align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img align="left" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
-
-<img align="left" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
-
 <br />
 
-#### Style Frameworks
+### Style Frameworks
 <img  align="left" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img  align="left" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-<img  align="left" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
 <img  align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white">
 
 <br />
+<br />
 
-#### Database
+### Database
 
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white">
 
 <br />
