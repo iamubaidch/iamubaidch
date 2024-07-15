@@ -1,9 +1,9 @@
 <html>
 
 <body style="background-color:blue;"> 
-    <h1>
+    <h3>
     Hi 👋, I'm Muhammad Ubaidullah
-    </h1>
+    </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
