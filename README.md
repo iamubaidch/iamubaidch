@@ -80,10 +80,8 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <hr>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=iamubaidch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/iamubaidch)
+[![Vehiclle Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-prediction)
+[![Spam Mail Classification](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-Spam-Mail-Classification)
 
 <p align="left">
   <a href="https://github.com/iamubaidch?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -111,8 +109,6 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <br/>
 </a>
 
-
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamubaidch&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </body>
 </html>
