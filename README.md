@@ -20,6 +20,10 @@
     <a href="https://x.com/iamubaidch">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=iamubaidch&style=flat-square&color=blue" alt=""/>
