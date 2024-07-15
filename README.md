@@ -106,8 +106,8 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 </p>
 
 <a> 
-    <a href="https://github.com/iamubaidch"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamubaidch&show_icons=true&count_private=true&border_color=7F3FBF" height="220px" width="49.5%"/></a>
-  <a href="https://github.com/iamubaidch"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamubaidch&langs_count=8&layout=compact&border_color=7F3FBF" height="220px" width="49.5%"/></a>
+    <a href="https://github.com/iamubaidch"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamubaidch&show_icons=true&count_private=true&border_color=7F3FBF" height="300px" width="49.5%"/></a>
+  <a href="https://github.com/iamubaidch"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamubaidch&langs_count=8&layout=compact&border_color=7F3FBF" height="300px" width="49.5%"/></a>
   <br/>
 </a>
 
