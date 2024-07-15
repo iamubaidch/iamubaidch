@@ -23,7 +23,6 @@
     <a href="https://www.facebook.com/iamubaidch/">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=iamubaidch&style=flat-square&color=blue" alt=""/>
@@ -105,12 +104,12 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   </a>
 </p>
 
-<div style="height: 100%;"> 
-    <div style="width: 200px; height: 49.5%;">
+<div style="width: 100%;"> 
+    <div style="width: 49.5%; height: 200px;">
     <a href="https://github.com/iamubaidch"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamubaidch&show_icons=true&count_private=true&border_color=7F3FBF"/>
     </a>
     </div>
-    <div style="width: 200px; height: 49.5%;">
+    <div style="width: 49.5%; height: 200px;">
     <a href="https://github.com/iamubaidch"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamubaidch&langs_count=8&layout=compact&border_color=7F3FBF" height="300px" width="49.5%"/
     </a>
     </div>
