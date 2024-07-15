@@ -25,7 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamubaidch&style=flat-square&color=blue" alt=""/>
 </div>
 
-### 🙋🏻‍♂ About Me :
+### 🙋🏻‍♂ About Me
 I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Islamabad.
 - :telescope: I'm recently graduated with a Bachelor's degree in Computer Science and currently working as a web developer.
 
@@ -33,7 +33,7 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 
 <br>
-   <h1>🚀 Skills</h1> 
+### 🚀 Skills
 
 <h2>Languages</h2>
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/powered-by-cfml.svg">
