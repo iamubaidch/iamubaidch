@@ -75,8 +75,7 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 <br />
 <br />
-
-<hr>
+<br />
 
 ## 📖 Top Open Source
 [![vehicle-price-prediction
