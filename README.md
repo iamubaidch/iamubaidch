@@ -63,7 +63,7 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <br />
 <br />
 
-###  <img align="left" src="https://emojis.slackmojis.com/emojis/images/1620758692/38043/database.png?1620758692"> Database
+### 🛢 Database
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white">
 
