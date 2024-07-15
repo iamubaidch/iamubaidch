@@ -81,7 +81,7 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ## Top Open Source
 [![vehicle-price-prediction
-](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=vehicle-price-prediction&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-prediction)
+](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=vehicle-price-prediction&border_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-prediction)
 [![Spam-Mail-Classification
 ](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=Spam-Mail-Classification&border_color=7F3FBF)](https://github.com/iamubaidch/Spam-Mail-Classification)
 
