@@ -1,6 +1,6 @@
 <html>
 
-<body style="background-color:blue;"> 
+<body> 
     <h3>
     Hi 👋, I'm Muhammad Ubaidullah
     </h3>
