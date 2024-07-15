@@ -79,7 +79,6 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <hr>
 
 <br />
-<br />
 
 
 ## 📖 Top Open Source
@@ -93,14 +92,12 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 </p>
 
 <br/>
-<br/>
 
 <hr/>
 
 <br/>
-<br/>
 
-## 📊 Profile Stats
+## 📊 GitHub Profile Statistics
 <p align="center">
 <a href="https://github.com/iamubaidch"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamubaidch&langs_count=8&layout=compact&border_color=7F3FBF"/
 </a>
