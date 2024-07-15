@@ -25,20 +25,24 @@
   <img src="https://komarev.com/ghpvc/?username=iamubaidch&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-   <h2>🙋🏻‍♂ About Me</h2>
+### 🙋🏻‍♂ About Me :
 I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Islamabad.
 - :telescope: I'm recently graduated with a Bachelor's degree in Computer Science and currently working as a web developer.
 
 - :zap: In my free time, I enjoy learning new web development techniques, working on personal projects, and reading tech articles.
 
+
 <br>
-   <h2>🚀 Skills</h2> 
+   <h1>🚀 Skills</h1> 
 
 <h2>Languages</h2>
-<img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
+<img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/powered-by-cfml.svg">
 <img align="left" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
+
 
 <br />
 <br />
