@@ -72,6 +72,12 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### 🛠️ Tools
 <img align="left" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<br />
+<br />
+
+### 🔄 AJAX
+<img align="left" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/AJAX-%23000000.svg?&style=for-the-badge&logo=ajax&logoColor=white">
 
 <br/>
 <br/>
