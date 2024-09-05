@@ -78,38 +78,11 @@ I am a `Web Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <br/>
 <br/>
 
-## 📖 Top Open Source
-[![vehicle-price-prediction
-](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=vehicle-price-prediction&border_color=7F3FBF)](https://github.com/iamubaidch/vehicle-price-prediction)
-[![Spam-Mail-Classification
-](https://github-readme-stats.vercel.app/api/pin/?username=iamubaidch&repo=Spam-Mail-Classification&border_color=7F3FBF)](https://github.com/iamubaidch/Spam-Mail-Classification)
-
-<p align="left">
-  <a href="https://github.com/iamubaidch?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<br/>
-
 ## 📊 My Profile Statistics
 <p align="center">
 <a href="https://github.com/iamubaidch"><img alt="Ubaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamubaidch&langs_count=8&layout=compact&border_color=7F3FBF"/
 </a>
 </p>
-
-<p align="center">
-<a href="https://github.com/iamubaidch"><img alt="Ubaid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamubaidch&show_icons=true&count_private=true&border_color=7F3FBF"/>
-</a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/iamubaidch">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamubaidch&border=7F3FBF" alt="Ubaid's GitHub streak"/>
-  </a>
-</p>
-
 
 <br/>
   
