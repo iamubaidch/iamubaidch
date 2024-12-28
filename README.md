@@ -74,8 +74,8 @@ I am an `Associate Software Engineer` <img src="https://media.giphy.com/media/WU
 ### 🛠️ Tools
 <img align="left" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/AJAX-%23000000.svg?&style=for-the-badge&logo=ajax&logoColor=white">
-
+<!-- <img align="left" src="https://img.shields.io/badge/AJAX-%23000000.svg?&style=for-the-badge&logo=ajax&logoColor=white"> -->
+<img align="left" src="https://img.shields.io/badge/AJAX-%23000000.svg?&style=for-the-badge&logo=javascript&logoColor=white">
 <br/>
 <br/>
 <br/>
