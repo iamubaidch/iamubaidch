@@ -44,6 +44,7 @@ I am an `Associate Software Engineer` <img src="https://media.giphy.com/media/WU
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
+<img  align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white">
 
 <br />
 <br />
@@ -54,10 +55,11 @@ I am an `Associate Software Engineer` <img src="https://media.giphy.com/media/WU
 <br />
 <br />
 
-### 🎨 Style Frameworks
+
+### 🎨 Frontend Frameworks
+<img align="left" src="https://img.shields.io/badge/vuejs-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white">
 <img  align="left" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img  align="left" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-<img  align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white">
 
 <br />
 <br />
