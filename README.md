@@ -30,7 +30,7 @@
 
 ## 🙋🏻‍♂ About Me
 I am a `Software Engineer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Lahore.
-- :telescope: I'm recently graduated with a Bachelor's degree in Computer Science and currently working as a web developer.
+- :telescope: I'm graduated with a Bachelor's degree in Computer Science and currently working as a web developer.
 
 - :zap: In my free time, I enjoy learning new web development techniques, working on personal projects, and reading tech articles.
 
